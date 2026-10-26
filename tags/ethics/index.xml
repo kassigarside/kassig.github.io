@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ethics on Kassi Garside Profile</title>
+		<link>http://localhost:1313/tags/ethics/</link>
+		<description>Recent content in Ethics on Kassi Garside Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 08 Oct 2026 22:53:58 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EBS</title>
+				<link>http://localhost:1313/blogs/ebs/</link>
+				<pubDate>Thu, 08 Oct 2026 22:53:58 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/ebs/</guid>
+				<description>&lt;h2 id=&#34;anonymous-the-ethics-behind-a-course-feedback-survey&#34;&gt;Anonymous? The Ethics Behind a Course Feedback Survey&lt;/h2&gt;&#xA;&lt;p&gt;A short course survey can look harmless: ten questions, a temporary web link, and a promise that responses will remain anonymous. But the details matter. Participants must log in with their organizational username and password, and the survey asks which course they completed. Those design choices may make it possible to connect a response to a person—even if the survey does not ask for a name.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
